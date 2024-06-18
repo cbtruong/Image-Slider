@@ -1,1 +1,1 @@
-https://cbtruong.github.io/Image-Slider/
+Demo: https://cbtruong.github.io/Image-Slider/
